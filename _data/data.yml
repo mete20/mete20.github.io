@@ -67,16 +67,21 @@ education:
 experiences:
     title: Experiences
     info:
+      - role: Backend Engineer Intern
+        time: 2023 July - Present
+        company: Lifemote, Istanbul
+        details: |
+          Currently I am learning backend techs like Docker, REST Api, CI/CD Github Actions .
       - role: Section Leader
-        time: 2023 - Present
+        time: 2023 Feb - Jun 
         company: Koc University, Istanbul
         details: |
-          I am a section leader and lab assistant in the COMP132 course(Advanced Programming with Java).
+          I was a section leader and lab assistant in the COMP132 course(Advanced Programming with Java).
       - role: Work and Study
-        time: 2023 - present
+        time: 2023 Feb - Jun 
         company: Koc University, Istanbul
         details: |
-          I am working with Oznur Ozkasap within the scope of work and study program.
+          I was working with Oznur Ozkasap within the scope of work and study program.
       - role: Project Specialist
         time: June 2020 - September 2020
         company: Koc University, Istanbul
