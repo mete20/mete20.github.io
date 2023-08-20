@@ -54,8 +54,13 @@ career-profile:
     title: Career Profile
     summary: |
      I am a third-year computer engineering student with a passion for technology and a strong desire to succeed.
-     My expertise lies in the Java and Python programming languages, and I have gained a solid understanding of object-oriented programming principles
-     and software development methodologies through both coursework and personal projects.
+     My expertise lies in the Java and Python programming languages,
+     and I have gained a solid understanding of object-oriented programming principles and software development methodologies through both coursework and personal projects.
+     Through my recent internship, I have acquired hands-on experience with Docker for containerization, Docker Compose for multi-container applications,
+     MySQL for database management, and FastAPI for building efficient web APIs.
+     I've also developed proficiency in implementing database migrations using Alembic, setting up and configuring Python-based web servers,
+     and integrating OAuth2 for Google authentication.
+     My exposure to these technologies has further honed my skills and deepened my understanding of modern software development practices.
 
 education:
     title: Education
