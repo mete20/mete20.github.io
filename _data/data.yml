@@ -111,6 +111,9 @@ projects:
       - title: Peer to peer Tutor App
         link: "https://github.com/mete20/PeerToPeerTutorApp"
         tagline: ""
+      - title: End-to-End Development: From FastAPI to Deployment with Docker
+        link: "https://github.com/mete20/merge-project"
+        tagline: ""
 
 publications:
     title: Publications
