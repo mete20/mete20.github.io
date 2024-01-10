@@ -111,6 +111,8 @@ experiences:
 projects:
     title: Projects
     assignments:
+      - title: FinanceApp | Fullstack web app project with FastApi, MySQL, React, and Docker (Work In Proggress)
+        link: "https://github.com/mete20/FinanceApp"
       - title: End-to-End Development From FastAPI to Deployment with Docker (At Lifemote Networks)
         link: "https://github.com/mete20/merge-project"
       - title: 2D Board Game - Alchemists | Java / JavaFX / Design Patterns (Due to course policy, I will make project public at the end of semester)
