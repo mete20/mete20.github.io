@@ -110,8 +110,8 @@ experiences:
          I am founder of the semi-academic blog site HurKirpi and also editor & writer.
 projects:
     title: Projects
-    assignments: 
-      - title: End-to-End Development: From FastAPI to Deployment with Docker (At Lifemote Networks)
+    assignments:
+      - title: End-to-End Development From FastAPI to Deployment with Docker (At Lifemote Networks)
         link: "https://github.com/mete20/merge-project"
     
     #- title: 2D Board Game - Alchemists | Java / JavaFX / Design Patterns (Due to course policy, I will make project public at the end of semester)
