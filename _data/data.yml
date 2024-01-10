@@ -110,18 +110,19 @@ experiences:
          I am founder of the semi-academic blog site HurKirpi and also editor & writer.
 projects:
     title: Projects
-    assignments:
-        - title: End-to-End Development: From FastAPI to Deployment with Docker (At Lifemote Networks)
-        link: "https://github.com/mete20/merge-project"
-        - title: 2D Board Game - Alchemists | Java / JavaFX / Design Patterns (Due to course policy, I will make project public at the end of semester)
-        link: ""
-        - title: Peer to peer Tutor App
-        link: "https://github.com/mete20/PeerToPeerTutorApp"
+    assignments: 
+    - title: End-to-End Development: From FastAPI to Deployment with Docker (At Lifemote Networks)
+    link: "https://github.com/mete20/merge-project"
+    - title: 2D Board Game - Alchemists | Java / JavaFX / Design Patterns (Due to course policy, I will make project public at the end of semester)
+    link: ""
+    - title: Peer to peer Tutor App
+    link: "https://github.com/mete20/PeerToPeerTutorApp"
     
 publications:
     title: Publications
     intro: |
     papers:
+    
       - title: Why Direct Digital Democracy is the Best Form of Government?
         link: "https://hurkirpi.com/dogrudandijitaldemokrasi-a2bcd1b9d523"
         authors: Metehan Yaka
