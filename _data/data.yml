@@ -72,8 +72,13 @@ education:
 experiences:
     title: Experiences
     info:
+      - role: Lab Assistant
+        time: October 2023 - Presente
+        company: Koc University, Istanbul
+        details: |
+          I am currently lab assistant in the COMP132 course(Advanced Programming with Java).
       - role: Backend Engineer Intern
-        time: 2023 July - Present
+        time: 2023 July - 2023 September
         company: Lifemote, Istanbul
         details: |
           At Lifemote, I've been immersed in backend development, leveraging technologies like Docker, FastAPI, and MySQL. I've built web APIs, integrated OAuth2 for Google authentication, and streamlined deployments with GitHub Actions CI/CD. This role has been instrumental in enhancing my practical skills in modern backend practices.
@@ -106,8 +111,13 @@ experiences:
 projects:
     title: Projects
     assignments:
+      - title: End-to-End Development: From FastAPI to Deployment with Docker (At Lifemote Networks)
+        link: "https://github.com/mete20/merge-project"
+      - title: 2D Board Game - Alchemists | Java / JavaFX / Design Patterns (Due to course policy, I will make project public at the end of semester)
+        link: ""
       - title: Peer to peer Tutor App
         link: "https://github.com/mete20/PeerToPeerTutorApp"
+    
 publications:
     title: Publications
     intro: |
