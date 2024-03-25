@@ -73,10 +73,10 @@ experiences:
     title: Experiences
     info:
       - role: Lab Assistant
-        time: October 2023 - Presente
+        time: October 2023 - February 2024
         company: Koc University, Istanbul
         details: |
-          I am currently lab assistant in the COMP132 course(Advanced Programming with Java).
+          I was a lab assistant in the COMP132 course(Advanced Programming with Java).
       - role: Backend Engineer Intern
         time: 2023 July - 2023 September
         company: Lifemote, Istanbul
@@ -116,7 +116,7 @@ projects:
       - title: End-to-End Development From FastAPI to Deployment with Docker (At Lifemote Networks)
         link: "https://github.com/mete20/merge-project"
       - title: 2D Board Game - Alchemists | Java / JavaFX / Design Patterns (Due to course policy, I will make project public at the end of semester)
-        link: "https://www.metehanyaka.xyz/"
+        link: "https://github.com/KU-Comp302-CizikCizik/KU_Alchemists"
       - title: Peer to peer Tutor App
         link: "https://github.com/mete20/PeerToPeerTutorApp"
     
@@ -129,19 +129,4 @@ publications:
         link: "https://hurkirpi.com/dogrudandijitaldemokrasi-a2bcd1b9d523"
         authors: Metehan Yaka
 
-skills:
-    title: Skills &amp; Proficiency
-
-    toolset:
-      - name: Java 
-        level: 80%
-        
-      - name: Python
-        level: 60%
-        
-      - name: JavaScript
-        level: 30%
-        
-      - name: C
-        level: 30%
      
